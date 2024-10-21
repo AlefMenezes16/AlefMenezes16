@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alef Menezes 🖐️
 
-![Alef GitHub stats](https://github-readme-stats.vercel.app/api?username=AlefMenezes16&show_icons=true&theme=synthwave&count_private=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefMenezes16&layout=compact&langs_count=6&theme=synthwave"/>
+![Alef GitHub stats](https://github-readme-stats.vercel.app/api?username=AlefMenezes16&show_icons=true&theme=tokyonight&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefMenezes16&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ## Tecnologias que eu uso no meu dia
 
